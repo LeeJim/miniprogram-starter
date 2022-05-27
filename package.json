@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "tdesign-miniprogram": "^0.12.1"
+  },
+  "name": "miniprogram-starter",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
